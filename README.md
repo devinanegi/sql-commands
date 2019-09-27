@@ -1,2 +1,0 @@
-# sql-commands
-sql commands 
